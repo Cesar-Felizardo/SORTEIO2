@@ -17,6 +17,6 @@ function selectOptions(values) {
     }else {
         status.style.background = 'transparent'
     }
-}
+} 
 
 
